@@ -1,5 +1,10 @@
 
+
+/* Fonte*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,200;1,300;1,400&display=swap');
+/*Componentes*/
 @import "./header.css";
+@import "./buttons.css";
 
 /*Reset*/
 *{
@@ -7,8 +12,11 @@
   padding: 0;
   border: 0;
   font-size: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
   font: inherit;
+
   vertical-align: baseline;
+  text-decoration: none;
 
 }
 
