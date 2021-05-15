@@ -5,6 +5,7 @@
 /*Componentes*/
 @import "./header.css";
 @import "./buttons.css";
+@import  "./main.css";
 
 /*Reset*/
 *{
@@ -13,6 +14,7 @@
   border: 0;
   font-size: 100%;
   font-family: 'Source Sans Pro', sans-serif;
+  font-weight:300;
   font: inherit;
 
   vertical-align: baseline;

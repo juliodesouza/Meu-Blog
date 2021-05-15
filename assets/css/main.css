@@ -1,0 +1,35 @@
+.resumo-blog{
+  justify-content: space-between;
+  align-items: center;
+}
+
+.resumo-blog article h1{
+  font-size: 70px;
+  line-height: 90px;
+  font-weight: 400;
+  color: #fca311;  
+}
+
+.resumo-blog article h2,
+.resumo-blog article p{
+  color: #3c6e71;
+}
+
+.resumo-blog article h2{
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  line-height: 200%;
+  }
+  
+.resumo-blog article p{  
+  margin: 10px 0 40px 0;  
+}
+
+.resumo-blog figcaption img{
+  width: 800px;
+}
+
+.resumo-blog article{
+  width: 400px;
+}
