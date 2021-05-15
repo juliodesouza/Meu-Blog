@@ -6,6 +6,7 @@
 @import "./header.css";
 @import "./buttons.css";
 @import  "./main.css";
+@import  "./footer.css";
 
 /*Reset*/
 *{
@@ -16,9 +17,16 @@
   font-family: 'Source Sans Pro', sans-serif;
   font-weight:300;
   font: inherit;
-
+  list-style: none;
   vertical-align: baseline;
   text-decoration: none;
+}
+body{
+  background-image: url("../Imagens/fundo-pag-principal.png");
+  background-repeat: no-repeat;
+  background-position: left;
+
+
 }
 
 .cotainer{
