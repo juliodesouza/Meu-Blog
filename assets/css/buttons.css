@@ -6,4 +6,8 @@
   background-color: #284b63;
   color: #ffff;
   border-radius: 20px;
-}
+  }
+
+  .btn.btn-azul.centro{
+    margin: 0 0 0 80px;
+  }

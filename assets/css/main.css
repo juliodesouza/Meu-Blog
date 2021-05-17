@@ -8,6 +8,7 @@
   line-height: 90px;
   font-weight: 400;
   color: #fca311;  
+  margin: 5px 0  0 40px;
 }
 
 .resumo-blog article h2,
@@ -20,14 +21,16 @@
   text-transform: uppercase;
   letter-spacing: 3px;
   line-height: 200%;
+  margin: 0 0 0 40px;
   }
   
 .resumo-blog article p{  
-  margin: 10px 0 40px 0;  
+  margin: 10px 0 40px 45px;  
 }
 
 .resumo-blog figcaption img{
   width: 800px;
+  margin: 0 0 0 50px;
 }
 
 .resumo-blog article{
