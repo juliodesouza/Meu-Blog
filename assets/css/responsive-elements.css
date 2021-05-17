@@ -1,0 +1,23 @@
+@media (max-width: 1326px){
+  .container{
+    width: 750px;
+  }
+  .resumo-blog{
+    width: 200px;
+  }
+}
+
+@media (max-width:415px){
+  body{
+    background-position:left top;
+    background-size: 100px;
+  }
+
+  header nav ul li{
+    padding: 5px;
+  }
+ footer .row{
+   margin: 30px
+ }
+  
+   }
